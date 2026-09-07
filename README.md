@@ -7,4 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikhil79924/DSA/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Nikhil79924/DSA/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Nikhil79924/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
