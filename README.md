@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikhil79924/DSA/tree/master/0007-reverse-integer) |
+| [3870-count-commas-in-range](https://github.com/Nikhil79924/DSA/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
