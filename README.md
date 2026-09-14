@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nikhil79924/DSA/tree/master/0035-search-insert-position) |
+| [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhil79924/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhil79924/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nikhil79924/DSA/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
