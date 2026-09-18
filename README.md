@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Nikhil79924/DSA/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Nikhil79924/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhil79924/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nikhil79924/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhil79924/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil79924/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Nikhil79924/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
