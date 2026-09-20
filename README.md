@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nikhil79924/DSA/tree/master/0229-majority-element-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil79924/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2404-most-frequent-even-element](https://github.com/Nikhil79924/DSA/tree/master/2404-most-frequent-even-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhil79924/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nikhil79924/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhil79924/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2404-most-frequent-even-element](https://github.com/Nikhil79924/DSA/tree/master/2404-most-frequent-even-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhil79924/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Nikhil79924/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhil79924/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [2404-most-frequent-even-element](https://github.com/Nikhil79924/DSA/tree/master/2404-most-frequent-even-element) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
