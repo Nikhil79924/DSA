@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nikhil79924/DSA/tree/master/0007-reverse-integer) |
 | [0836-rectangle-overlap](https://github.com/Nikhil79924/DSA/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil79924/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3524-find-x-value-of-array-i](https://github.com/Nikhil79924/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Nikhil79924/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nikhil79924/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil79924/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Nikhil79924/DSA/tree/master/2404-most-frequent-even-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhil79924/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Nikhil79924/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil79924/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhil79924/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Nikhil79924/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
