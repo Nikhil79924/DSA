@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nikhil79924/DSA/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Nikhil79924/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhil79924/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhil79924/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nikhil79924/DSA/tree/master/0022-generate-parentheses) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil79924/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhil79924/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikhil79924/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -114,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Nikhil79924/DSA/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nikhil79924/DSA/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Nikhil79924/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
