@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil79924/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhil79924/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhil79924/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil79924/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2404-most-frequent-even-element](https://github.com/Nikhil79924/DSA/tree/master/2404-most-frequent-even-element) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikhil79924/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikhil79924/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Nikhil79924/DSA/tree/master/0035-search-insert-position) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil79924/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhil79924/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil79924/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil79924/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhil79924/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Nikhil79924/DSA/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil79924/DSA/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil79924/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil79924/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Queue
 |  |
 | ------- |
@@ -124,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Nikhil79924/DSA/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Nikhil79924/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
