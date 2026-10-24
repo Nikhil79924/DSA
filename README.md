@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Nikhil79924/DSA/tree/master/0007-reverse-integer) |
 | [0836-rectangle-overlap](https://github.com/Nikhil79924/DSA/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil79924/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2409-count-days-spent-together](https://github.com/Nikhil79924/DSA/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/Nikhil79924/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Nikhil79924/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Nikhil79924/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Nikhil79924/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhil79924/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhil79924/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Nikhil79924/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Nikhil79924/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Nikhil79924/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Hash Table
