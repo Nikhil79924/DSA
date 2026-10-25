@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nikhil79924/DSA/tree/master/0229-majority-element-ii) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil79924/DSA/tree/master/0905-sort-array-by-parity) |
+| [1254-number-of-closed-islands](https://github.com/Nikhil79924/DSA/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil79924/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikhil79924/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikhil79924/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -149,4 +150,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Nikhil79924/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Nikhil79924/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nikhil79924/DSA/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nikhil79924/DSA/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nikhil79924/DSA/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Nikhil79924/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
