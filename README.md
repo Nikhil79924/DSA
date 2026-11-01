@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Nikhil79924/DSA/tree/master/0007-reverse-integer) |
 | [0384-shuffle-an-array](https://github.com/Nikhil79924/DSA/tree/master/0384-shuffle-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhil79924/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Nikhil79924/DSA/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nikhil79924/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/Nikhil79924/DSA/tree/master/2409-count-days-spent-together) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Nikhil79924/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Nikhil79924/DSA/tree/master/0229-majority-element-ii) |
 | [0384-shuffle-an-array](https://github.com/Nikhil79924/DSA/tree/master/0384-shuffle-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nikhil79924/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0905-sort-array-by-parity](https://github.com/Nikhil79924/DSA/tree/master/0905-sort-array-by-parity) |
 | [1254-number-of-closed-islands](https://github.com/Nikhil79924/DSA/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Nikhil79924/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
